@@ -1,0 +1,1849 @@
+[
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "01000",
+                "ABR": "D",
+                "Descripcion": "C.R.MEXICO",
+                "TipoSucursal": "CR",
+                "Longitud": "-99.209948",
+                "Latitud": "19.431038"
+            },
+            {
+                "CveSucursal": "01002",
+                "ABR": "AA",
+                "Descripcion": "AEROPUERTO 1",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0818170",
+                "Latitud": "19.4358900"
+            },
+            {
+                "CveSucursal": "01003",
+                "ABR": "AB",
+                "Descripcion": "AEROPUERTO 2",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0819920",
+                "Latitud": "19.4359000"
+            },
+            {
+                "CveSucursal": "01004",
+                "ABR": "AD",
+                "Descripcion": "AEROPUERTO 3",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0815390",
+                "Latitud": "19.4361420"
+            },
+            {
+                "CveSucursal": "01005",
+                "ABR": "AE",
+                "Descripcion": "AEROPUERTO 4",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0816960",
+                "Latitud": "19.4360520"
+            },
+            {
+                "CveSucursal": "01010",
+                "ABR": "DP",
+                "Descripcion": "DEL PUENTE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.258638",
+                "Latitud": "19.4063384"
+            },
+            {
+                "CveSucursal": "01011",
+                "ABR": "DT",
+                "Descripcion": "COAPA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.1257790",
+                "Latitud": "19.3050410"
+            },
+            {
+                "CveSucursal": "01012",
+                "ABR": "DU",
+                "Descripcion": "GALERIAS INSURGENTES",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.177062",
+                "Latitud": "19.3861436"
+            },
+            {
+                "CveSucursal": "01014",
+                "ABR": "DL",
+                "Descripcion": "LINDAVISTA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.133838",
+                "Latitud": "19.4909730"
+            },
+            {
+                "CveSucursal": "01015",
+                "ABR": "DF",
+                "Descripcion": "SANTA FE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.275841",
+                "Latitud": "19.3611060"
+            },
+            {
+                "CveSucursal": "01016",
+                "ABR": "DO",
+                "Descripcion": "PABELLON POLANCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.207208",
+                "Latitud": "19.4382820"
+            },
+            {
+                "CveSucursal": "01017",
+                "ABR": "DS",
+                "Descripcion": "PERISUR",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.192223",
+                "Latitud": "19.3041595"
+            },
+            {
+                "CveSucursal": "01018",
+                "ABR": "DH",
+                "Descripcion": "PLAZA UNIVERSIDAD",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.168200",
+                "Latitud": "19.3670493"
+            },
+            {
+                "CveSucursal": "01019",
+                "ABR": "DJ",
+                "Descripcion": "SAN JERONIMO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.212316",
+                "Latitud": "19.3288710"
+            },
+            {
+                "CveSucursal": "01020",
+                "ABR": "DA",
+                "Descripcion": "SATELITE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.077730",
+                "Latitud": "19.4221840"
+            },
+            {
+                "CveSucursal": "01021",
+                "ABR": "DZ",
+                "Descripcion": "TIBER",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.168548",
+                "Latitud": "19.4285780"
+            },
+            {
+                "CveSucursal": "01025",
+                "ABR": "AJ",
+                "Descripcion": "AEROPUERTO 8",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0815520",
+                "Latitud": "19.4361150"
+            },
+            {
+                "CveSucursal": "01028",
+                "ABR": "AK",
+                "Descripcion": "AEROPUERTO 9",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0807920",
+                "Latitud": "19.4364930"
+            },
+            {
+                "CveSucursal": "01029",
+                "ABR": "FG",
+                "Descripcion": "ACAPULCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.866930",
+                "Latitud": "16.8569010"
+            },
+            {
+                "CveSucursal": "01031",
+                "ABR": "AL",
+                "Descripcion": "AEROPUERTO 10",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0801920",
+                "Latitud": "19.4369560"
+            },
+            {
+                "CveSucursal": "01034",
+                "ABR": "FB",
+                "Descripcion": "PLAZA CUERNAVACA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.229916",
+                "Latitud": "18.9349970"
+            },
+            {
+                "CveSucursal": "01036",
+                "ABR": "FL",
+                "Descripcion": "PLAZA LAS AMERICAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.024638",
+                "Latitud": "19.5818960"
+            },
+            {
+                "CveSucursal": "01039",
+                "ABR": "FF",
+                "Descripcion": "TOLUCA VILLADA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.660341",
+                "Latitud": "19.2843017"
+            },
+            {
+                "CveSucursal": "01041",
+                "ABR": "DY",
+                "Descripcion": "PALMAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.212091",
+                "Latitud": "19.4308872"
+            },
+            {
+                "CveSucursal": "01042",
+                "ABR": "FZ",
+                "Descripcion": "ZONA ROSA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.165860",
+                "Latitud": "19.4275040"
+            },
+            {
+                "CveSucursal": "01046",
+                "ABR": "FP",
+                "Descripcion": "GALERIAS PACHUCA",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.7690240",
+                "Latitud": "20.0976210"
+            },
+            {
+                "CveSucursal": "01048",
+                "ABR": "FQ",
+                "Descripcion": "PASEO INTERLOMAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.284496",
+                "Latitud": "19.3977512"
+            },
+            {
+                "CveSucursal": "01050",
+                "ABR": "AO",
+                "Descripcion": "AEROPUERTO 13",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0777070",
+                "Latitud": "19.4221850"
+            },
+            {
+                "CveSucursal": "01051",
+                "ABR": "AP",
+                "Descripcion": "AEROPUERTO 14",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0776020",
+                "Latitud": "19.4225320"
+            },
+            {
+                "CveSucursal": "01052",
+                "ABR": "AQ",
+                "Descripcion": "AEROPUERTO 11",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0778490",
+                "Latitud": "19.4220710"
+            },
+            {
+                "CveSucursal": "01054",
+                "ABR": "AR",
+                "Descripcion": "AEROPUERTO 15",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0818930",
+                "Latitud": "19.4357860"
+            },
+            {
+                "CveSucursal": "01055",
+                "ABR": "AS",
+                "Descripcion": "AEROPUERTO 16",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0815040",
+                "Latitud": "19.4361270"
+            },
+            {
+                "CveSucursal": "01058",
+                "ABR": "AV",
+                "Descripcion": "AEROPUERTO 19",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0850090",
+                "Latitud": "19.4344000"
+            },
+            {
+                "CveSucursal": "01059",
+                "ABR": "AW",
+                "Descripcion": "AEROPUERTO 20",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0777570",
+                "Latitud": "19.4221030"
+            },
+            {
+                "CveSucursal": "01060",
+                "ABR": "AX",
+                "Descripcion": "AEROPUERTO 21",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0777160",
+                "Latitud": "19.4221570"
+            },
+            {
+                "CveSucursal": "01064",
+                "ABR": "FS",
+                "Descripcion": "METEPEC",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.619602",
+                "Latitud": "19.2585783"
+            },
+            {
+                "CveSucursal": "01065",
+                "ABR": "FK",
+                "Descripcion": "MADERO CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.138141",
+                "Latitud": "19.4337350"
+            },
+            {
+                "CveSucursal": "01066",
+                "ABR": "FI",
+                "Descripcion": "CAMPOS ELISEOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.193191",
+                "Latitud": "19.4280050"
+            },
+            {
+                "CveSucursal": "01067",
+                "ABR": "FJ",
+                "Descripcion": "INTERLOMAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.274449",
+                "Latitud": "19.4053152"
+            },
+            {
+                "CveSucursal": "01068",
+                "ABR": "FY",
+                "Descripcion": "LOMAS DE CHAPULTEPEC",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.2126793",
+                "Latitud": "19.4298685"
+            },
+            {
+                "CveSucursal": "01069",
+                "ABR": "ES",
+                "Descripcion": "AMPLIACION SANTA FE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.275486",
+                "Latitud": "19.3612873"
+            },
+            {
+                "CveSucursal": "01070",
+                "ABR": "AY",
+                "Descripcion": "AEROPUERTO 22",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.077730",
+                "Latitud": "19.4221840"
+            },
+            {
+                "CveSucursal": "01071",
+                "ABR": "FW",
+                "Descripcion": "PERIFERICO SUR",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.223127",
+                "Latitud": "19.3168460"
+            },
+            {
+                "CveSucursal": "01073",
+                "ABR": "FA",
+                "Descripcion": "NARVARTE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.155497",
+                "Latitud": "19.3973934"
+            },
+            {
+                "CveSucursal": "01074",
+                "ABR": "FX",
+                "Descripcion": "WTC",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.175500",
+                "Latitud": "19.3920530"
+            },
+            {
+                "CveSucursal": "01075",
+                "ABR": "FV",
+                "Descripcion": "TECAMACHALCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.228046",
+                "Latitud": "19.4281970"
+            },
+            {
+                "CveSucursal": "01076",
+                "ABR": "EP",
+                "Descripcion": "PABELLON BOSQUES",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.267200",
+                "Latitud": "19.3815000"
+            },
+            {
+                "CveSucursal": "01077",
+                "ABR": "EG",
+                "Descripcion": "VILLA DE GUADALUPE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.126767",
+                "Latitud": "19.4600310"
+            },
+            {
+                "CveSucursal": "01078",
+                "ABR": "EM",
+                "Descripcion": "PLAZA MILLENIUM",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.193098",
+                "Latitud": "19.5556790"
+            },
+            {
+                "CveSucursal": "01079",
+                "ABR": "EA",
+                "Descripcion": "GRAND SAN FRANCISCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.244174",
+                "Latitud": "19.3398997"
+            },
+            {
+                "CveSucursal": "01080",
+                "ABR": "ET",
+                "Descripcion": "EL TRIANGULO TECAMACHALCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.250681",
+                "Latitud": "19.4110687"
+            },
+            {
+                "CveSucursal": "01081",
+                "ABR": "ED",
+                "Descripcion": "PEDREGAL",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.214154",
+                "Latitud": "19.3162476"
+            },
+            {
+                "CveSucursal": "01082",
+                "ABR": "ER",
+                "Descripcion": "MIRAMONTES ZAPAMUNDI",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.135912",
+                "Latitud": "19.3251268"
+            },
+            {
+                "CveSucursal": "01085",
+                "ABR": "EE",
+                "Descripcion": "ESTADO DE MEXICO",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.612163",
+                "Latitud": "19.2615401"
+            },
+            {
+                "CveSucursal": "01086",
+                "ABR": "EB",
+                "Descripcion": "AEROPUERTO TOLUCA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.572115",
+                "Latitud": "19.3384260"
+            },
+            {
+                "CveSucursal": "01087",
+                "ABR": "EL",
+                "Descripcion": "PLAZA LILAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.248724",
+                "Latitud": "19.3879422"
+            },
+            {
+                "CveSucursal": "01088",
+                "ABR": "EF",
+                "Descripcion": "PASEO ACOXPA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.140432",
+                "Latitud": "19.3009536"
+            },
+            {
+                "CveSucursal": "01089",
+                "ABR": "EC",
+                "Descripcion": "CONDESA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.176690",
+                "Latitud": "19.4114410"
+            },
+            {
+                "CveSucursal": "01090",
+                "ABR": "EO",
+                "Descripcion": "OASIS COYOACAN",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.180192",
+                "Latitud": "19.3464993"
+            },
+            {
+                "CveSucursal": "01091",
+                "ABR": "EX",
+                "Descripcion": "PLAZA EXHIBIMEX",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.192579",
+                "Latitud": "19.3888174"
+            },
+            {
+                "CveSucursal": "01092",
+                "ABR": "EY",
+                "Descripcion": "PLAZA MIYANA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.2003220",
+                "Latitud": "19.4401960"
+            },
+            {
+                "CveSucursal": "01093",
+                "ABR": "EH",
+                "Descripcion": "20 DE NOVIEMBRE",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.1344470",
+                "Latitud": "19.4247720"
+            },
+            {
+                "CveSucursal": "01094",
+                "ABR": "EK",
+                "Descripcion": "HOSPITAL HMG CDMX",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.1435350",
+                "Latitud": "19.3279700"
+            },
+            {
+                "CveSucursal": "01095",
+                "ABR": "EJ",
+                "Descripcion": "SAN PATRICIO METEPEC",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.5802601",
+                "Latitud": "19.2596029"
+            },
+            {
+                "CveSucursal": "01096",
+                "ABR": "EN",
+                "Descripcion": "REFORMA 320",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.2060070",
+                "Latitud": "19.4261120"
+            },
+            {
+                "CveSucursal": "01097",
+                "ABR": "EQ",
+                "Descripcion": "AVERANDA",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.1977920",
+                "Latitud": "18.9332240"
+            },
+            {
+                "CveSucursal": "01098",
+                "ABR": "EW",
+                "Descripcion": "PARQUE LINCOLN",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.1990381",
+                "Latitud": "19.4290312"
+            },
+            {
+                "CveSucursal": "01099",
+                "ABR": "EI",
+                "Descripcion": "PARQUE LAS ANTENAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-99.0799148",
+                "Latitud": "19.3149429"
+            }
+        ],
+        "_id": "6115571ed83f5848b5cc5dc1",
+        "CveSucursal": "01000",
+        "Nombre": "C.R.MEXICO",
+        "Longitud": "-99.209948",
+        "Latitud": "19.431038"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "02000",
+                "ABR": "G",
+                "Descripcion": "C.R. OCCIDENTE",
+                "TipoSucursal": "CR",
+                "Longitud": "-103.377472",
+                "Latitud": "20.703222"
+            },
+            {
+                "CveSucursal": "02001",
+                "ABR": "GJ",
+                "Descripcion": "PROVIDENCIA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.376205",
+                "Latitud": "20.703678"
+            },
+            {
+                "CveSucursal": "02003",
+                "ABR": "GA",
+                "Descripcion": "PLAZA ARBOLEDAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.386707",
+                "Latitud": "20.6488200"
+            },
+            {
+                "CveSucursal": "02004",
+                "ABR": "GH",
+                "Descripcion": "PLAZA DEL SOL",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.403853",
+                "Latitud": "20.6486223"
+            },
+            {
+                "CveSucursal": "02005",
+                "ABR": "GI",
+                "Descripcion": "AJIJIC",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.244286",
+                "Latitud": "20.2982794"
+            },
+            {
+                "CveSucursal": "02006",
+                "ABR": "GP",
+                "Descripcion": "GALERIAS GUADALAJARA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.429684",
+                "Latitud": "20.6798285"
+            },
+            {
+                "CveSucursal": "02009",
+                "ABR": "GT",
+                "Descripcion": "LAS GLORIAS VALLARTA",
+                "TipoSucursal": "SU",
+                "Longitud": "-105.230625",
+                "Latitud": "20.6343809"
+            },
+            {
+                "CveSucursal": "02010",
+                "ABR": "GR",
+                "Descripcion": "PARQUE HIDALGO VALLARTA",
+                "TipoSucursal": "SU",
+                "Longitud": "-105.232150",
+                "Latitud": "20.6147609"
+            },
+            {
+                "CveSucursal": "02019",
+                "ABR": "GL",
+                "Descripcion": "LOS CABOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.912296",
+                "Latitud": "22.8816086"
+            },
+            {
+                "CveSucursal": "02022",
+                "ABR": "GX",
+                "Descripcion": "FORUM TLAQUEPAQUE",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.321591",
+                "Latitud": "20.6475449"
+            },
+            {
+                "CveSucursal": "02023",
+                "ABR": "GG",
+                "Descripcion": "PLAZA ANDARES",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.412569",
+                "Latitud": "20.7110178"
+            },
+            {
+                "CveSucursal": "02024",
+                "ABR": "GF",
+                "Descripcion": "LAFAYETTE",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.367080",
+                "Latitud": "20.6745916"
+            },
+            {
+                "CveSucursal": "02025",
+                "ABR": "GC",
+                "Descripcion": "COLIMA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.717499",
+                "Latitud": "19.2566024"
+            },
+            {
+                "CveSucursal": "02026",
+                "ABR": "GV",
+                "Descripcion": "BUCERIAS NAYARIT",
+                "TipoSucursal": "SU",
+                "Longitud": "-105.328007",
+                "Latitud": "20.7523250"
+            },
+            {
+                "CveSucursal": "02027",
+                "ABR": "OG",
+                "Descripcion": "PLAZA GOURMETERIA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.311971",
+                "Latitud": "20.5854402"
+            },
+            {
+                "CveSucursal": "02028",
+                "ABR": "GQ",
+                "Descripcion": "OLAS ALTAS VALLARTA",
+                "TipoSucursal": "SU",
+                "Longitud": "-105.237497",
+                "Latitud": "20.6000208"
+            },
+            {
+                "CveSucursal": "02029",
+                "ABR": "GK",
+                "Descripcion": "GRAN PLAZA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.404815",
+                "Latitud": "20.6735836"
+            },
+            {
+                "CveSucursal": "02030",
+                "ABR": "GW",
+                "Descripcion": "AEROPUERTO GUADALAJARA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.307625",
+                "Latitud": "20.5259561"
+            },
+            {
+                "CveSucursal": "02031",
+                "ABR": "GY",
+                "Descripcion": "SKALIA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.415092",
+                "Latitud": "20.7082525"
+            },
+            {
+                "CveSucursal": "02032",
+                "ABR": "OP",
+                "Descripcion": "LA PAZ B.C.",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.334770",
+                "Latitud": "24.1407030"
+            },
+            {
+                "CveSucursal": "02033",
+                "ABR": "OT",
+                "Descripcion": "TEPIC",
+                "TipoSucursal": "SU",
+                "Longitud": "-104.883379",
+                "Latitud": "21.4961404"
+            },
+            {
+                "CveSucursal": "02035",
+                "ABR": "OM",
+                "Descripcion": "MANZANILLO",
+                "TipoSucursal": "SU",
+                "Longitud": "-104.288425",
+                "Latitud": "19.0803945"
+            },
+            {
+                "CveSucursal": "02036",
+                "ABR": "OS",
+                "Descripcion": "PLAZA SAN LUCAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.898673",
+                "Latitud": "22.9001010"
+            },
+            {
+                "CveSucursal": "02037",
+                "ABR": "OL",
+                "Descripcion": "MARINA LOS CABOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.9085543",
+                "Latitud": "22.8826892"
+            },
+            {
+                "CveSucursal": "02038",
+                "ABR": "OV",
+                "Descripcion": "MARINA VALLARTA",
+                "TipoSucursal": "SU",
+                "Longitud": "-105.2519475",
+                "Latitud": "20.6646337"
+            },
+            {
+                "CveSucursal": "02040",
+                "ABR": "OJ",
+                "Descripcion": "SAN JOSE DEL CABO",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.7038890",
+                "Latitud": "23.0517930"
+            },
+            {
+                "CveSucursal": "02041",
+                "ABR": "OB",
+                "Descripcion": "TODOS SANTOS BCS",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.2242392",
+                "Latitud": "23.4491464"
+            },
+            {
+                "CveSucursal": "02042",
+                "ABR": "OD",
+                "Descripcion": "PATIO LOS CABOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.9353601",
+                "Latitud": "22.9048146"
+            }
+        ],
+        "_id": "61155776d83f5848b5cc5dc2",
+        "CveSucursal": "02000",
+        "Nombre": "C.R. OCCIDENTE",
+        "Longitud": "-103.377472",
+        "Latitud": "20.703222"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "03000",
+                "ABR": "M",
+                "Descripcion": "NORESTE",
+                "TipoSucursal": "CR",
+                "CveSucursalPadre": "00000",
+                "Longitud": "-100.371801",
+                "Latitud": "25.657349"
+            },
+            {
+                "CveSucursal": "03003",
+                "ABR": "MT",
+                "Descripcion": "MATAMOROS",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-99.145028",
+                "Latitud": "23.7312507"
+            },
+            {
+                "CveSucursal": "03004",
+                "ABR": "MS",
+                "Descripcion": "GALERIAS MONTERREY",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.356760",
+                "Latitud": "25.6815096"
+            },
+            {
+                "CveSucursal": "03005",
+                "ABR": "MI",
+                "Descripcion": "TAMPICO",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-97.877851",
+                "Latitud": "22.2604805"
+            },
+            {
+                "CveSucursal": "03007",
+                "ABR": "ME",
+                "Descripcion": "DEL VALLE MONTERREY",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.371799",
+                "Latitud": "25.6573675"
+            },
+            {
+                "CveSucursal": "03008",
+                "ABR": "MF",
+                "Descripcion": "PLAZA ANAHUAC",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.315670",
+                "Latitud": "25.7433005"
+            },
+            {
+                "CveSucursal": "03009",
+                "ABR": "MO",
+                "Descripcion": "VALLE ORIENTE",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.315821",
+                "Latitud": "25.6388232"
+            },
+            {
+                "CveSucursal": "03010",
+                "ABR": "MD",
+                "Descripcion": "PASEO TEC",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.295360",
+                "Latitud": "25.6546766"
+            },
+            {
+                "CveSucursal": "03011",
+                "ABR": "MV",
+                "Descripcion": "VERSALLES MONTERREY",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.391159",
+                "Latitud": "25.6856107"
+            },
+            {
+                "CveSucursal": "03012",
+                "ABR": "MG",
+                "Descripcion": "CUMBRES MONTERREY",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.391159",
+                "Latitud": "25.6853347"
+            },
+            {
+                "CveSucursal": "03013",
+                "ABR": "MH",
+                "Descripcion": "LINDAVISTA MONTERREY",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-100.391159",
+                "Latitud": "25.6853347"
+            },
+            {
+                "CveSucursal": "03014",
+                "ABR": "MY",
+                "Descripcion": "REYNOSA",
+                "TipoSucursal": "SU",
+                "CveSucursalPadre": "03000",
+                "Longitud": "-98.333628",
+                "Latitud": "26.0694759"
+            }
+        ],
+        "_id": "611576adcd51a510aaeafde3",
+        "CveSucursal": "03000",
+        "Nombre": "NORESTE",
+        "Longitud": "-100.371801",
+        "Latitud": "25.657349"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "04000",
+                "ABR": "Q",
+                "Descripcion": "C.R. SURESTE",
+                "TipoSucursal": "CR",
+                "Longitud": "-86.824475",
+                "Latitud": "21.144166"
+            },
+            {
+                "CveSucursal": "04002",
+                "ABR": "QN",
+                "Descripcion": "PLAZA AMERICA",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.823194",
+                "Latitud": "21.1560070"
+            },
+            {
+                "CveSucursal": "04003",
+                "ABR": "QP",
+                "Descripcion": "PLAYA DEL CARMEN",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.078081",
+                "Latitud": "20.6208110"
+            },
+            {
+                "CveSucursal": "04004",
+                "ABR": "QM",
+                "Descripcion": "MERIDA",
+                "TipoSucursal": "SU",
+                "Longitud": "-89.619287",
+                "Latitud": "20.9860449"
+            },
+            {
+                "CveSucursal": "04005",
+                "ABR": "QJ",
+                "Descripcion": "PLAZA FLAMINGOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.758025",
+                "Latitud": "21.1162618"
+            },
+            {
+                "CveSucursal": "04007",
+                "ABR": "QD",
+                "Descripcion": "DADY O",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.748144",
+                "Latitud": "21.1338256"
+            },
+            {
+                "CveSucursal": "04008",
+                "ABR": "QY",
+                "Descripcion": "5A. AVENIDA",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.0750770",
+                "Latitud": "20.6227250"
+            },
+            {
+                "CveSucursal": "04009",
+                "ABR": "QL",
+                "Descripcion": "COZUMEL",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.949718",
+                "Latitud": "20.5016392"
+            },
+            {
+                "CveSucursal": "04012",
+                "ABR": "QK",
+                "Descripcion": "PLAZA FORUM",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.747614",
+                "Latitud": "21.1328273"
+            },
+            {
+                "CveSucursal": "04013",
+                "ABR": "QR",
+                "Descripcion": "CENTRO MAYA",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.095893",
+                "Latitud": "20.6186425"
+            },
+            {
+                "CveSucursal": "04015",
+                "ABR": "QI",
+                "Descripcion": "PLAZA LA ISLA",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.763362",
+                "Latitud": "21.1096997"
+            },
+            {
+                "CveSucursal": "04016",
+                "ABR": "QB",
+                "Descripcion": "PLAZA KUKULCAN",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.765764",
+                "Latitud": "21.1025539"
+            },
+            {
+                "CveSucursal": "04017",
+                "ABR": "QA",
+                "Descripcion": "PLAZA LA ISLA 2",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.763362",
+                "Latitud": "21.1096997"
+            },
+            {
+                "CveSucursal": "04026",
+                "ABR": "QC",
+                "Descripcion": "PLAZA TENDENZA",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.071733",
+                "Latitud": "20.6293397"
+            },
+            {
+                "CveSucursal": "04027",
+                "ABR": "KS",
+                "Descripcion": "PLAZA SALOME",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.945530",
+                "Latitud": "20.4958328"
+            },
+            {
+                "CveSucursal": "04028",
+                "ABR": "KM",
+                "Descripcion": "ISLA MUJERES",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.747410",
+                "Latitud": "21.2557761"
+            },
+            {
+                "CveSucursal": "04029",
+                "ABR": "KP",
+                "Descripcion": "PASEO MONTEJO",
+                "TipoSucursal": "SU",
+                "Longitud": "-89.6138070",
+                "Latitud": "21.0094624"
+            },
+            {
+                "CveSucursal": "04030",
+                "ABR": "KT",
+                "Descripcion": "TULUM",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.463321",
+                "Latitud": "20.2110433"
+            },
+            {
+                "CveSucursal": "04031",
+                "ABR": "KR",
+                "Descripcion": "ROYAL VILLAGE COZUMEL",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.972952",
+                "Latitud": "20.4781170"
+            },
+            {
+                "CveSucursal": "04032",
+                "ABR": "KB",
+                "Descripcion": "PLAZA ALTABRISA MERIDA",
+                "TipoSucursal": "SU",
+                "Longitud": "-89.584023",
+                "Latitud": "21.0180730"
+            },
+            {
+                "CveSucursal": "04033",
+                "ABR": "KL",
+                "Descripcion": "PLAZA MAYALAND",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.825033",
+                "Latitud": "21.1400986"
+            },
+            {
+                "CveSucursal": "04034",
+                "ABR": "KE",
+                "Descripcion": "CANCUN ESTADIO",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8397240",
+                "Latitud": "21.1513948"
+            },
+            {
+                "CveSucursal": "04035",
+                "ABR": "KG",
+                "Descripcion": "TUXTLA GUTIERREZ",
+                "TipoSucursal": "SU",
+                "Longitud": "-93.131309",
+                "Latitud": "16.7543790"
+            },
+            {
+                "CveSucursal": "04036",
+                "ABR": "KD",
+                "Descripcion": "CHETUMAL",
+                "TipoSucursal": "SU",
+                "Longitud": "-88.298887",
+                "Latitud": "18.4969812"
+            },
+            {
+                "CveSucursal": "04037",
+                "ABR": "KF",
+                "Descripcion": "PTO. PROGRESO",
+                "TipoSucursal": "SU",
+                "Longitud": "-89.662370",
+                "Latitud": "21.2871934"
+            },
+            {
+                "CveSucursal": "04038",
+                "ABR": "KH",
+                "Descripcion": "PLAZA LAS AMERICAS Q.R.",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.081992",
+                "Latitud": "20.6497788"
+            },
+            {
+                "CveSucursal": "04039",
+                "ABR": "KJ",
+                "Descripcion": "PTO. MORELOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.897696",
+                "Latitud": "20.8561576"
+            },
+            {
+                "CveSucursal": "04041",
+                "ABR": "KI",
+                "Descripcion": "TAPACHULA",
+                "TipoSucursal": "SU",
+                "Longitud": "-92.2746340",
+                "Latitud": "14.8949770"
+            },
+            {
+                "CveSucursal": "04042",
+                "ABR": "KN",
+                "Descripcion": "TULUM ARQUEOLOGICA",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.4360710",
+                "Latitud": "20.2173700"
+            },
+            {
+                "CveSucursal": "04043",
+                "ABR": "KC",
+                "Descripcion": "VILLAS DEL SOL",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.1051710",
+                "Latitud": "20.6661060"
+            },
+            {
+                "CveSucursal": "04044",
+                "ABR": "KO",
+                "Descripcion": "PUERTO AVENTURAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.2288835",
+                "Latitud": "20.5144122"
+            },
+            {
+                "CveSucursal": "04045",
+                "ABR": "KQ",
+                "Descripcion": "SAN CRISTOBAL",
+                "TipoSucursal": "SU",
+                "Longitud": "-92.6410372",
+                "Latitud": "16.7377386"
+            },
+            {
+                "CveSucursal": "04046",
+                "ABR": "KU",
+                "Descripcion": "HOLBOX",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.3789973",
+                "Latitud": "21.5227486"
+            },
+            {
+                "CveSucursal": "04047",
+                "ABR": "KV",
+                "Descripcion": "MARINA PLAYACAR",
+                "TipoSucursal": "SU",
+                "Longitud": "-87.0757530",
+                "Latitud": "20.6214060"
+            },
+            {
+                "CveSucursal": "04048",
+                "ABR": "SA",
+                "Descripcion": "T2 BLVD AEROPUERTO",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8770410",
+                "Latitud": "21.0399034"
+            },
+            {
+                "CveSucursal": "04049",
+                "ABR": "SB",
+                "Descripcion": "T2 LLEGADAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8770410",
+                "Latitud": "21.0399034"
+            },
+            {
+                "CveSucursal": "04050",
+                "ABR": "SC",
+                "Descripcion": "T3 LLEGADAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8708483",
+                "Latitud": "21.0369739"
+            },
+            {
+                "CveSucursal": "04051",
+                "ABR": "SD",
+                "Descripcion": "T3 SALIDAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8708483",
+                "Latitud": "21.0369739"
+            },
+            {
+                "CveSucursal": "04052",
+                "ABR": "SE",
+                "Descripcion": "T4 LLEGADAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8747167",
+                "Latitud": "21.0395831"
+            },
+            {
+                "CveSucursal": "04053",
+                "ABR": "SF",
+                "Descripcion": "T4 SALIDAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.8747167",
+                "Latitud": "21.0395831"
+            },
+            {
+                "CveSucursal": "04054",
+                "ABR": "SG",
+                "Descripcion": "AIRCZM",
+                "TipoSucursal": "SU",
+                "Longitud": "-86.9294124",
+                "Latitud": "20.5148799"
+            },
+            {
+                "CveSucursal": "04056",
+                "ABR": "KW",
+                "Descripcion": "TAPACHULA CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-92.2653241",
+                "Latitud": "14.9064424"
+            }
+        ],
+        "_id": "61157704cd51a510aaeafde4",
+        "CveSucursal": "04000",
+        "Nombre": "C.R. SURESTE",
+        "Longitud": "-86.824475",
+        "Latitud": "21.144166"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "05000",
+                "ABR": "B",
+                "Descripcion": "C.R. BAJIO",
+                "TipoSucursal": "CR",
+                "Longitud": "-101.691199",
+                "Latitud": "21.118454"
+            },
+            {
+                "CveSucursal": "05001",
+                "ABR": "BM",
+                "Descripcion": "LEON",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.685018",
+                "Latitud": "21.1490736"
+            },
+            {
+                "CveSucursal": "05003",
+                "ABR": "BA",
+                "Descripcion": "IRAPUATO",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.356048",
+                "Latitud": "20.6895330"
+            },
+            {
+                "CveSucursal": "05009",
+                "ABR": "BG",
+                "Descripcion": "AGUASCALIENTES CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-102.294595",
+                "Latitud": "21.8823882"
+            },
+            {
+                "CveSucursal": "05014",
+                "ABR": "BE",
+                "Descripcion": "CELAYA",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.797669",
+                "Latitud": "20.5198100"
+            },
+            {
+                "CveSucursal": "05019",
+                "ABR": "BT",
+                "Descripcion": "QUERETARO TECNOLOGICO",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.400534",
+                "Latitud": "20.5825359"
+            },
+            {
+                "CveSucursal": "05021",
+                "ABR": "BO",
+                "Descripcion": "MORELIA CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.194117",
+                "Latitud": "19.7034061"
+            },
+            {
+                "CveSucursal": "05024",
+                "ABR": "BS",
+                "Descripcion": "SAN LUIS POTOSI",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.9996310",
+                "Latitud": "22.1496910"
+            },
+            {
+                "CveSucursal": "05025",
+                "ABR": "BF",
+                "Descripcion": "QUERETARO Q7001",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.3615385",
+                "Latitud": "20.5738041"
+            },
+            {
+                "CveSucursal": "05026",
+                "ABR": "BH",
+                "Descripcion": "SMA JUAREZ",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.742013",
+                "Latitud": "20.9146217"
+            },
+            {
+                "CveSucursal": "05027",
+                "ABR": "BJ",
+                "Descripcion": "AGUASCALIENTES GALERIAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-102.294014",
+                "Latitud": "21.9236576"
+            },
+            {
+                "CveSucursal": "05028",
+                "ABR": "BR",
+                "Descripcion": "LEON CARRANZA",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.687480",
+                "Latitud": "21.1028103"
+            },
+            {
+                "CveSucursal": "05029",
+                "ABR": "BN",
+                "Descripcion": "LEON GALERIAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.647222",
+                "Latitud": "21.1474252"
+            },
+            {
+                "CveSucursal": "05030",
+                "ABR": "BK",
+                "Descripcion": "GUANAJUATO CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.253997",
+                "Latitud": "21.0168315"
+            },
+            {
+                "CveSucursal": "05032",
+                "ABR": "BX",
+                "Descripcion": "ZACATECAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-102.528445",
+                "Latitud": "22.7523071"
+            },
+            {
+                "CveSucursal": "05033",
+                "ABR": "BY",
+                "Descripcion": "MORELIA CAMELINAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.169665",
+                "Latitud": "19.6820088"
+            },
+            {
+                "CveSucursal": "05034",
+                "ABR": "BV",
+                "Descripcion": "QUERETARO BERNARDO QUINTANA",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.382224",
+                "Latitud": "20.6114197"
+            },
+            {
+                "CveSucursal": "05036",
+                "ABR": "BZ",
+                "Descripcion": "AGUASCALIENTES NORTE",
+                "TipoSucursal": "SU",
+                "Longitud": "-102.303774",
+                "Latitud": "21.9161501"
+            },
+            {
+                "CveSucursal": "05037",
+                "ABR": "LC",
+                "Descripcion": "CELAYA CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.813595",
+                "Latitud": "20.5225159"
+            },
+            {
+                "CveSucursal": "05038",
+                "ABR": "LP",
+                "Descripcion": "SMA PLAZA",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.741816",
+                "Latitud": "20.9145210"
+            },
+            {
+                "CveSucursal": "05039",
+                "ABR": "LM",
+                "Descripcion": "LEON PLAZA MAYOR",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.693141",
+                "Latitud": "21.1565920"
+            },
+            {
+                "CveSucursal": "05041",
+                "ABR": "LS",
+                "Descripcion": "SAN LUIS POTOSI ALTTUS",
+                "TipoSucursal": "SU",
+                "Longitud": "-101.020196",
+                "Latitud": "22.1305665"
+            },
+            {
+                "CveSucursal": "05042",
+                "ABR": "LU",
+                "Descripcion": "PLAZA LUCIERNAGA SMA",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.7285580",
+                "Latitud": "20.9035970"
+            }
+        ],
+        "_id": "61157771cd51a510aaeafde5",
+        "CveSucursal": "05000",
+        "Nombre": "C.R. BAJIO",
+        "Longitud": "-101.691199",
+        "Latitud": "21.118454"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "06000",
+                "ABR": "P",
+                "Descripcion": "C.R. ORIENTE",
+                "TipoSucursal": "CR",
+                "Longitud": "-98.230980",
+                "Latitud": "19.058803"
+            },
+            {
+                "CveSucursal": "06001",
+                "ABR": "PB",
+                "Descripcion": "PUEBLA LA PAZ",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.221725",
+                "Latitud": "19.0534130"
+            },
+            {
+                "CveSucursal": "06002",
+                "ABR": "PA",
+                "Descripcion": "PUEBLA CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.197606",
+                "Latitud": "19.0445400"
+            },
+            {
+                "CveSucursal": "06003",
+                "ABR": "PW",
+                "Descripcion": "VOLKSWAGEN",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.252327",
+                "Latitud": "19.1187820"
+            },
+            {
+                "CveSucursal": "06004",
+                "ABR": "PT",
+                "Descripcion": "ATLIXCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.433736",
+                "Latitud": "18.9098390"
+            },
+            {
+                "CveSucursal": "06009",
+                "ABR": "PO",
+                "Descripcion": "OAXACA",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.7287050",
+                "Latitud": "17.0616614"
+            },
+            {
+                "CveSucursal": "06010",
+                "ABR": "PZ",
+                "Descripcion": "VERACRUZ CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.139240",
+                "Latitud": "19.2011660"
+            },
+            {
+                "CveSucursal": "06011",
+                "ABR": "PH",
+                "Descripcion": "VILLAHERMOSA",
+                "TipoSucursal": "SU",
+                "Longitud": "-92.946374",
+                "Latitud": "18.0028880"
+            },
+            {
+                "CveSucursal": "06012",
+                "ABR": "PR",
+                "Descripcion": "CORDOBA",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.933739",
+                "Latitud": "18.8873620"
+            },
+            {
+                "CveSucursal": "06013",
+                "ABR": "PY",
+                "Descripcion": "VERACRUZ REFORMA",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.126992",
+                "Latitud": "19.1736070"
+            },
+            {
+                "CveSucursal": "06014",
+                "ABR": "PF",
+                "Descripcion": "PLAZA ANDARES PUEBLA",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.234488",
+                "Latitud": "19.0280160"
+            },
+            {
+                "CveSucursal": "06015",
+                "ABR": "PX",
+                "Descripcion": "TLAXCALA",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.236327",
+                "Latitud": "19.3187990"
+            },
+            {
+                "CveSucursal": "06016",
+                "ABR": "PC",
+                "Descripcion": "CD. DEL CARMEN",
+                "TipoSucursal": "SU",
+                "Longitud": "-",
+                "Latitud": "-"
+            },
+            {
+                "CveSucursal": "06017",
+                "ABR": "PL",
+                "Descripcion": "LAS ANIMAS",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.232673",
+                "Latitud": "19.0428510"
+            },
+            {
+                "CveSucursal": "06018",
+                "ABR": "PG",
+                "Descripcion": "PUEBLA CERRO DE LA PAZ",
+                "TipoSucursal": "SU",
+                "Longitud": "-98.227978",
+                "Latitud": "19.0531020"
+            },
+            {
+                "CveSucursal": "06019",
+                "ABR": "PI",
+                "Descripcion": "XALAPA URBAN CENTER",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.923750",
+                "Latitud": "19.5604340"
+            },
+            {
+                "CveSucursal": "06020",
+                "ABR": "PP",
+                "Descripcion": "POZA RICA",
+                "TipoSucursal": "SU",
+                "Longitud": "-97.460459",
+                "Latitud": "20.5341230"
+            },
+            {
+                "CveSucursal": "06021",
+                "ABR": "PE",
+                "Descripcion": "CAMPECHE CENTRO",
+                "TipoSucursal": "SU",
+                "Longitud": "-90.536224",
+                "Latitud": "19.8448840"
+            },
+            {
+                "CveSucursal": "06023",
+                "ABR": "PJ",
+                "Descripcion": "COSTA DE ORO VERACRUZ",
+                "TipoSucursal": "SU",
+                "Longitud": "-96.1080380",
+                "Latitud": "19.1552740"
+            }
+        ],
+        "_id": "611577d1cd51a510aaeafde6",
+        "CveSucursal": "06000",
+        "Nombre": "C.R. ORIENTE",
+        "Longitud": "-98.230980",
+        "Latitud": "19.058803"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "07000",
+                "ABR": "X",
+                "Descripcion": "C.R. ESTADO DE MEXICO",
+                "TipoSucursal": "CR",
+                "CveSucursalPadre": "07000",
+                "Longitud": "-99.626853",
+                "Latitud": "19.260897"
+            }
+        ],
+        "_id": "6115782ccd51a510aaeafde7",
+        "CveSucursal": "07000",
+        "Nombre": "C.R. ESTADO DE MEXICO",
+        "Longitud": "-99.626853",
+        "Latitud": "19.260897"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "08000",
+                "ABR": "T",
+                "Descripcion": "NORTE",
+                "TipoSucursal": "CR",
+                "Longitud": "-103.406668",
+                "Latitud": "25.577189"
+            },
+            {
+                "CveSucursal": "08001",
+                "ABR": "TA",
+                "Descripcion": "INDEPENDENCIA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.415445",
+                "Latitud": "25.5742470"
+            },
+            {
+                "CveSucursal": "08002",
+                "ABR": "TS",
+                "Descripcion": "SALTILLO",
+                "TipoSucursal": "SU",
+                "Longitud": "-100.983807",
+                "Latitud": "25.4584940"
+            },
+            {
+                "CveSucursal": "08003",
+                "ABR": "TB",
+                "Descripcion": "PLAZA CUMBRES CHIHUAHUA",
+                "TipoSucursal": "SU",
+                "Longitud": "-106.122619",
+                "Latitud": "28.6403890"
+            },
+            {
+                "CveSucursal": "08005",
+                "ABR": "TR",
+                "Descripcion": "TORREON ROSITA",
+                "TipoSucursal": "SU",
+                "Longitud": "-103.415422",
+                "Latitud": "25.5275120"
+            },
+            {
+                "CveSucursal": "08007",
+                "ABR": "TG",
+                "Descripcion": "DURANGO",
+                "TipoSucursal": "SU",
+                "Longitud": "-104.658755",
+                "Latitud": "24.0267110"
+            },
+            {
+                "CveSucursal": "08011",
+                "ABR": "TF",
+                "Descripcion": "PLAZA CANTERA CHIHUAHUA",
+                "TipoSucursal": "SU",
+                "Longitud": "-106.1406750",
+                "Latitud": "28.6484170"
+            }
+        ],
+        "_id": "6115786ecd51a510aaeafde8",
+        "CveSucursal": "08000",
+        "Nombre": "NORTE",
+        "Longitud": "-103.406668",
+        "Latitud": "25.577189"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "09000",
+                "ABR": "H",
+                "Descripcion": "NOROESTE",
+                "TipoSucursal": "CR",
+                "Longitud": "-110.996041",
+                "Latitud": "29.068902"
+            },
+            {
+                "CveSucursal": "09001",
+                "ABR": "HA",
+                "Descripcion": "PITIC",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.949791",
+                "Latitud": "29.0979160"
+            },
+            {
+                "CveSucursal": "09002",
+                "ABR": "HP",
+                "Descripcion": "PUERTO PEÑASCO",
+                "TipoSucursal": "SU",
+                "Longitud": "-113.537000",
+                "Latitud": "31.3181000"
+            },
+            {
+                "CveSucursal": "09003",
+                "ABR": "HM",
+                "Descripcion": "LOS MOCHIS",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.002801",
+                "Latitud": "25.7844780"
+            },
+            {
+                "CveSucursal": "09005",
+                "ABR": "HD",
+                "Descripcion": "HERMOSILLO COLOSIO",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.968817",
+                "Latitud": "29.0805235"
+            },
+            {
+                "CveSucursal": "09006",
+                "ABR": "HS",
+                "Descripcion": "SAN CARLOS",
+                "TipoSucursal": "SU",
+                "Longitud": "-111.039109",
+                "Latitud": "27.9591120"
+            },
+            {
+                "CveSucursal": "09007",
+                "ABR": "HO",
+                "Descripcion": "CD. OBREGON",
+                "TipoSucursal": "SU",
+                "Longitud": "-109.930550",
+                "Latitud": "27.5024100"
+            },
+            {
+                "CveSucursal": "09009",
+                "ABR": "HR",
+                "Descripcion": "VADO DEL RIO",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.960814",
+                "Latitud": "29.0687186"
+            },
+            {
+                "CveSucursal": "09010",
+                "ABR": "HC",
+                "Descripcion": "TRES RIOS CULIACAN",
+                "TipoSucursal": "SU",
+                "Longitud": "-107.401569",
+                "Latitud": "24.8181300"
+            },
+            {
+                "CveSucursal": "09011",
+                "ABR": "HF",
+                "Descripcion": "CAMARON SABALO MAZATLAN",
+                "TipoSucursal": "SU",
+                "Longitud": "-106.450623",
+                "Latitud": "23.2436910"
+            },
+            {
+                "CveSucursal": "09015",
+                "ABR": "HE",
+                "Descripcion": "METROCENTRO HERMOSILLO",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.9831020",
+                "Latitud": "29.0846600"
+            },
+            {
+                "CveSucursal": "09017",
+                "ABR": "HJ",
+                "Descripcion": "NOGALES",
+                "TipoSucursal": "SU",
+                "Longitud": "-110.9479541",
+                "Latitud": "31.2924685"
+            },
+            {
+                "CveSucursal": "09018",
+                "ABR": "HL",
+                "Descripcion": "MAZATLAN HISTORICO",
+                "TipoSucursal": "SU",
+                "Longitud": "-106.4246978",
+                "Latitud": "23.1994902"
+            }
+        ],
+        "_id": "6115789ecd51a510aaeafde9",
+        "CveSucursal": "09000",
+        "Nombre": "NOROESTE",
+        "Longitud": "-110.996041",
+        "Latitud": "29.068902"
+    },
+    {
+        "Sucursales": [
+            {
+                "CveSucursal": "11000",
+                "ABR": "J",
+                "Descripcion": "BAJA CALIFORNIA",
+                "TipoSucursal": "CR",
+                "Longitud": "-117.004716",
+                "Latitud": "32.513001"
+            },
+            {
+                "CveSucursal": "11004",
+                "ABR": "JA",
+                "Descripcion": "TIJUANA",
+                "TipoSucursal": "SU",
+                "Longitud": "-117.001102",
+                "Latitud": "32.5120660"
+            },
+            {
+                "CveSucursal": "11005",
+                "ABR": "JB",
+                "Descripcion": "PLAZA CATAVIÑA MEXICALI",
+                "TipoSucursal": "SU",
+                "Longitud": "-115.3958240",
+                "Latitud": "32.6531548"
+            },
+            {
+                "CveSucursal": "11006",
+                "ABR": "JD",
+                "Descripcion": "ENSENADA BANCARIO",
+                "TipoSucursal": "SU",
+                "Longitud": "-116.6113620",
+                "Latitud": "31.8504546"
+            },
+            {
+                "CveSucursal": "11007",
+                "ABR": "JT",
+                "Descripcion": "TIJUANA OTAY",
+                "TipoSucursal": "SU",
+                "Longitud": "-116.9217290",
+                "Latitud": "32.5386142"
+            }
+        ],
+        "_id": "611578cacd51a510aaeafdea",
+        "CveSucursal": "11000",
+        "Nombre": "BAJA CALIFORNIA",
+        "Longitud": "-117.004716",
+        "Latitud": "32.513001"
+    }
+]

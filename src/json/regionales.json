@@ -1,0 +1,48 @@
+ {
+    "CveSucursal": "11000",
+            "Nombre": "BAJA CALIFORNIA",
+            "Longitud": "-117.004716",
+            "Latitud": "32.513001",         
+            "Sucursales" : [
+                {
+                    "CveSucursal": "11000",
+                    "ABR": "J",
+                    "Descripcion": "BAJA CALIFORNIA",
+                    "TipoSucursal": "CR",
+                    "Longitud": "-117.004716",
+                    "Latitud": "32.513001"
+                },
+                {
+                    "CveSucursal": "11004",
+                    "ABR": "JA",
+                    "Descripcion": "TIJUANA",
+                    "TipoSucursal": "SU",
+                    "Longitud": "-117.001102",
+                    "Latitud": "32.5120660"
+                },
+                {
+                    "CveSucursal": "11005",
+                    "ABR": "JB",
+                    "Descripcion": "PLAZA CATAVIÑA MEXICALI",
+                    "TipoSucursal": "SU",
+                    "Longitud": "-115.3958240",
+                    "Latitud": "32.6531548"
+                },
+                {
+                    "CveSucursal": "11006",
+                    "ABR": "JD",
+                    "Descripcion": "ENSENADA BANCARIO",
+                    "TipoSucursal": "SU",
+                    "Longitud": "-116.6113620",
+                    "Latitud": "31.8504546"
+                },
+                {
+                    "CveSucursal": "11007",
+                    "ABR": "JT",
+                    "Descripcion": "TIJUANA OTAY",
+                    "TipoSucursal": "SU",
+                    "Longitud": "-116.9217290",
+                    "Latitud": "32.5386142"
+                }
+            ]
+        }

@@ -1,0 +1,30 @@
+{
+  "name": "catalogo-banco",
+  "version": "1.0.0",
+  "description": "Este es un repositorio privado",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiusRock1/Catalogo-Banco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiusRock1/Catalogo-Banco/issues"
+  },
+  "homepage": "https://github.com/MatiusRock1/Catalogo-Banco#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonschema": "^1.4.0",
+    "mongoose": "^5.13.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
