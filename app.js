@@ -20,6 +20,7 @@ app.use('/',indexRouters);
 
 
 bigquery.createTable();
+bigquery.createTableSchema();
 app.use(morgan('dev'));
 
 app.listen(app.get('port'),() =>{

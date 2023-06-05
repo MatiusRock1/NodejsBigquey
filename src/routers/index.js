@@ -6,6 +6,7 @@ const connectToDatabase = require('../db');
 const catalogo = require('../json/catalogo.json');
 const DIRECTORIO = require ('../models/directorio');
 const REGIONALES = require ('../models/regionales');
+const createData = require('../../Bigquery_example');
 //const schema = require('../Schema/register.json');
 
 
@@ -32,15 +33,16 @@ const REGIONALES = require ('../models/regionales');
 router.get('/catalogo' , async (req, res) => {
   
     res.json(catalogo);  
-  
+
     
     
   
 });
 
-router.get('/CreateTable' , async (req, res) => {
+router.get('/createdata' , async (req, res) => {
   
-  
+  await createData.insertData();
+  res.send("creado con exito");
 
   
   
