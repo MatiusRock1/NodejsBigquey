@@ -7,7 +7,6 @@
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MatiusRock1/Catalogo-Banco.git"
@@ -19,7 +18,10 @@
   },
   "homepage": "https://github.com/MatiusRock1/Catalogo-Banco#readme",
   "dependencies": {
+    "@google-cloud/bigquery": "^6.2.0",
+    "@google-cloud/local-auth": "^2.1.1",
     "express": "^4.17.1",
+    "google-auth-library": "^8.8.0",
     "jsonschema": "^1.4.0",
     "mongoose": "^5.13.7",
     "morgan": "^1.10.0"

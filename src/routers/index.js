@@ -37,11 +37,25 @@ router.get('/catalogo' , async (req, res) => {
     
   
 });
+
+router.get('/CreateTable' , async (req, res) => {
+  
+  
+
+  
+  
+
+});
+
+
+
+
+
 router.get('/' , async (req,res) => {
   res.send("holas, como estas, esto es un test 2");
  
  });
-
+//
 
 
 module.exports = router;
